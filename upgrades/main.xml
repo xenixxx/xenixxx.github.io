@@ -1,38 +1,4 @@
-<NewDataSet>
-  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="cfg" msdata:UseCurrentLocale="true">
-      <xs:complexType>
-        <xs:choice minOccurs="0" maxOccurs="unbounded">
-          <xs:element name="cfg">
-            <xs:complexType>
-              <xs:sequence>
-                <xs:element name="Kod" type="xs:string" minOccurs="0" />
-                <xs:element name="Rejestr" type="xs:string" minOccurs="0" />
-                <xs:element name="RejestrKasa" type="xs:string" minOccurs="0" />
-                <xs:element name="Symbol_x0020_KP" type="xs:string" minOccurs="0" />
-                <xs:element name="Licznik_x0020_KP" type="xs:int" minOccurs="0" />
-                <xs:element name="Symbol_x0020_KW" type="xs:string" minOccurs="0" />
-                <xs:element name="Licznik_x0020_KW" type="xs:int" minOccurs="0" />
-                <xs:element name="Symbol_x0020_KWPEP" type="xs:string" minOccurs="0" />
-                <xs:element name="Licznik_x0020_KWPEP" type="xs:int" minOccurs="0" />
-                <xs:element name="Symbol_x0020_Raportu" type="xs:string" minOccurs="0" />
-                <xs:element name="Baza_x0020_źródłowa" type="xs:string" minOccurs="0" />
-                <xs:element name="Połączenie" type="xs:string" minOccurs="0" />
-                <xs:element name="Nazwa_x0020_ODBC" type="xs:string" minOccurs="0" />
-                <xs:element name="Uruchom_x0020_przed" type="xs:string" minOccurs="0" />
-                <xs:element name="Uruchom_x0020_po" type="xs:string" minOccurs="0" />
-                <xs:element name="Naliczanie_x0020_FIFO" type="xs:boolean" minOccurs="0" />
-                <xs:element name="Partie" type="xs:boolean" minOccurs="0" />
-                <xs:element name="Aktywny" type="xs:boolean" minOccurs="0" />
-                <xs:element name="Okres_x0020_zamknięty" type="xs:string" minOccurs="0" />
-              </xs:sequence>
-            </xs:complexType>
-          </xs:element>
-        </xs:choice>
-      </xs:complexType>
-    </xs:element>
-  </xs:schema>
-  <cfg>
+<cfg>
     <Kod>201</Kod>
     <Rejestr>SPBIEL</Rejestr>
     <RejestrKasa>SPBIEL</RejestrKasa>
@@ -50,5 +16,4 @@
     <Uruchom_x0020_po />
     <Naliczanie_x0020_FIFO>false</Naliczanie_x0020_FIFO>
     <Partie>false</Partie>
-  </cfg>
-</NewDataSet>
+</cfg>
