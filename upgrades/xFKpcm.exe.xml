@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <UPGRADE>
+    <AppName>xFKpcm.exe</AppName>
+    <Version>2.7.1.7</Version>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>C8FFC728A163FA007185CB030AF660E5</FileSumMd5>
+    <FileSumSha>2CD18AF33C2742CDEA4CFD64CB033F8C740539A60530C919FF49CAAFBA7C290C</FileSumSha>
+  </UPGRADE>
+</DocumentElement>
