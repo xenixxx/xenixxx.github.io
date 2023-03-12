@@ -1,19 +1,43 @@
-<cfg>
-    <Kod>201</Kod>
-    <Rejestr>SPBIEL</Rejestr>
-    <RejestrKasa>SPBIEL</RejestrKasa>
-    <Symbol_x0020_KP>KP201</Symbol_x0020_KP>
-    <Licznik_x0020_KP>0</Licznik_x0020_KP>
-    <Symbol_x0020_KW>KW201</Symbol_x0020_KW>
-    <Licznik_x0020_KW>0</Licznik_x0020_KW>
-    <Symbol_x0020_KWPEP>KWPEP</Symbol_x0020_KWPEP>
-    <Licznik_x0020_KWPEP>1</Licznik_x0020_KWPEP>
-    <Symbol_x0020_Raportu>RKB</Symbol_x0020_Raportu>
-    <Baza_x0020_źródłowa>AX</Baza_x0020_źródłowa>
-    <Połączenie />
-    <Nazwa_x0020_ODBC>pcmarket</Nazwa_x0020_ODBC>
-    <Uruchom_x0020_przed />
-    <Uruchom_x0020_po />
-    <Naliczanie_x0020_FIFO>false</Naliczanie_x0020_FIFO>
-    <Partie>false</Partie>
-</cfg>
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <UPGRADE>
+    <AppName>xenix.upgrade.file.exe</AppName>
+    <Version>2.0.2.1</Version>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>B31F6EA6A103CAC89BD0DF4ACC7734EB</FileSumMd5>
+    <FileSumSha>2CA957B0BECCF7E876B12C934920988113074DE7122845A6A95A5B5417B61E61</FileSumSha>
+    <Extension>.exe</Extension>
+  </UPGRADE>
+  <UPGRADE>
+    <AppName>_xenix.log.dll</AppName>
+    <Version>2.0.5.2</Version>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>B31F6EA6A103CAC89BD0DF4ACC7734EB</FileSumMd5>
+    <FileSumSha>2CA957B0BECCF7E876B12C934920988113074DE7122845A6A95A5B5417B61E61</FileSumSha>
+    <Extension>.dll</Extension>
+  </UPGRADE>
+  <UPGRADE>
+    <AppName>_xenix.net.wget.dll</AppName>
+    <Version>2.0.5.1</Version>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>B31F6EA6A103CAC89BD0DF4ACC7734EB</FileSumMd5>
+    <FileSumSha>2CA957B0BECCF7E876B12C934920988113074DE7122845A6A95A5B5417B61E61</FileSumSha>
+    <Extension>.dll</Extension>
+  </UPGRADE>
+  <UPGRADE>
+    <AppName>_xenix.upgrade.file.exe</AppName>
+    <Version>2.0.2.1</Version>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>B31F6EA6A103CAC89BD0DF4ACC7734EB</FileSumMd5>
+    <FileSumSha>2CA957B0BECCF7E876B12C934920988113074DE7122845A6A95A5B5417B61E61</FileSumSha>
+    <Extension>.exe</Extension>
+  </UPGRADE>
+  <UPGRADE>
+    <AppName>_xFKpcm.exe</AppName>
+    <Version>2.7.3.1</Version>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>B31F6EA6A103CAC89BD0DF4ACC7734EB</FileSumMd5>
+    <FileSumSha>2CA957B0BECCF7E876B12C934920988113074DE7122845A6A95A5B5417B61E61</FileSumSha>
+    <Extension>.exe</Extension>
+  </UPGRADE>
+</DocumentElement>
