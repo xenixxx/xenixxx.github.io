@@ -2,9 +2,9 @@
 <DocumentElement>
   <UPGRADE>
     <AppName>xenix.net.wget.dll</AppName>
-    <Version>2.0.5.0</Version>
+    <Version>2.0.5.1</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xenix.net.wget.dll</FileUrl>
-    <FileSumMd5>CFAD7EA12151477002A1337BD0DF8EE6</FileSumMd5>
-    <FileSumSha>BC820B9AF039786B4F1EE6D0F4F9ED3C944A02578BE99E54F61BF982005A2852</FileSumSha>
+    <FileSumMd5>5E4F04C48E58137D4C1A16E066C3669A</FileSumMd5>
+    <FileSumSha>A2F956E798F9727C5EFB8F708F4C3E675065218365F96009C645FBF5CF475567</FileSumSha>
   </UPGRADE>
 </DocumentElement>
