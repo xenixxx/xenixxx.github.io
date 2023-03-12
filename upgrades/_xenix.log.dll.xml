@@ -2,9 +2,9 @@
 <DocumentElement>
   <UPGRADE>
     <AppName>xenix.log.dll</AppName>
-    <Version>2.0.5.1</Version>
+    <Version>2.0.5.2</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xenix.log.dll</FileUrl>
-    <FileSumMd5>8804B3E8126ADB41E9AA1A5D9DF91174</FileSumMd5>
-    <FileSumSha>B0A678411879A6912C56DEC21C838EF8B8ECF172259B07D2798BB75A092A68E5</FileSumSha>
+    <FileSumMd5>0C788F67AC7A9F9551362CF2E7F0A1F8</FileSumMd5>
+    <FileSumSha>5D675E3B189F2AA2483CD3AFBD9E0CA2880ADE1D8A14DF19B5B82A841D29B832</FileSumSha>
   </UPGRADE>
 </DocumentElement>
