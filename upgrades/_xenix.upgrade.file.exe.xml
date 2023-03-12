@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <UPGRADE>
+    <AppName>xenix.upgrade.file.exe</AppName>
+    <Version>2.0.2.1</Version>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xenix.upgrade.file.exe</FileUrl>
+    <FileSumMd5>88324000EDC4B0087C24566340B7F1D9</FileSumMd5>
+    <FileSumSha>3BD32DC877F6C59272011AB08FB3F6503A7B84469826FFAD688CC0CEBB2E8632</FileSumSha>
+  </UPGRADE>
+</DocumentElement>
