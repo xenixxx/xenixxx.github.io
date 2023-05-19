@@ -4,48 +4,48 @@
     <AppName>xenix.upgrade.file.exe</AppName>
     <Version>2.0.2.1</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>7A1E3F6E261CA82F8C9EEA34EC258778</FileSumMd5>
-    <FileSumSha>60D827419681FED9316BA9E7B79377DCEB20FD964E5288E002D6B27354CEC443</FileSumSha>
+    <FileSumMd5>6F05DBDF85BCCD87F96B6CE1493338A7</FileSumMd5>
+    <FileSumSha>94FFB475EA9DF806AA62C499230706ACEA460776852255193013330D563C285F</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_PetroZarBox.exe</AppName>
     <Version>1.0.4.0</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>7A1E3F6E261CA82F8C9EEA34EC258778</FileSumMd5>
-    <FileSumSha>60D827419681FED9316BA9E7B79377DCEB20FD964E5288E002D6B27354CEC443</FileSumSha>
+    <FileSumMd5>6F05DBDF85BCCD87F96B6CE1493338A7</FileSumMd5>
+    <FileSumSha>94FFB475EA9DF806AA62C499230706ACEA460776852255193013330D563C285F</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xenix.log.dll</AppName>
     <Version>2.0.5.2</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>7A1E3F6E261CA82F8C9EEA34EC258778</FileSumMd5>
-    <FileSumSha>60D827419681FED9316BA9E7B79377DCEB20FD964E5288E002D6B27354CEC443</FileSumSha>
+    <FileSumMd5>6F05DBDF85BCCD87F96B6CE1493338A7</FileSumMd5>
+    <FileSumSha>94FFB475EA9DF806AA62C499230706ACEA460776852255193013330D563C285F</FileSumSha>
     <Extension>.dll</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xenix.net.wget.dll</AppName>
     <Version>2.0.5.1</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>7A1E3F6E261CA82F8C9EEA34EC258778</FileSumMd5>
-    <FileSumSha>60D827419681FED9316BA9E7B79377DCEB20FD964E5288E002D6B27354CEC443</FileSumSha>
+    <FileSumMd5>6F05DBDF85BCCD87F96B6CE1493338A7</FileSumMd5>
+    <FileSumSha>94FFB475EA9DF806AA62C499230706ACEA460776852255193013330D563C285F</FileSumSha>
     <Extension>.dll</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xenix.upgrade.file.exe</AppName>
     <Version>2.0.2.1</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>7A1E3F6E261CA82F8C9EEA34EC258778</FileSumMd5>
-    <FileSumSha>60D827419681FED9316BA9E7B79377DCEB20FD964E5288E002D6B27354CEC443</FileSumSha>
+    <FileSumMd5>6F05DBDF85BCCD87F96B6CE1493338A7</FileSumMd5>
+    <FileSumSha>94FFB475EA9DF806AA62C499230706ACEA460776852255193013330D563C285F</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xFKpcm.exe</AppName>
     <Version>2.7.4.1</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>7A1E3F6E261CA82F8C9EEA34EC258778</FileSumMd5>
-    <FileSumSha>60D827419681FED9316BA9E7B79377DCEB20FD964E5288E002D6B27354CEC443</FileSumSha>
+    <FileSumMd5>6F05DBDF85BCCD87F96B6CE1493338A7</FileSumMd5>
+    <FileSumSha>94FFB475EA9DF806AA62C499230706ACEA460776852255193013330D563C285F</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
 </DocumentElement>
