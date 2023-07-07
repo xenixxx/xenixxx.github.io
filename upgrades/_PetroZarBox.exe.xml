@@ -2,9 +2,9 @@
 <DocumentElement>
   <UPGRADE>
     <AppName>PetroZarBox.exe</AppName>
-    <Version>1.0.7.7</Version>
+    <Version>1.0.8.2</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>7B4A2A83A25EBC96BDCEE97DBB36DD9E</FileSumMd5>
-    <FileSumSha>85F4B756A0F759002F9A63EBEED9F7ED544315DDFE3E01DD2DAF6C3F2EC1EF56</FileSumSha>
+    <FileSumMd5>17B6BCD8E60755BFB47CBA00CDC033E1</FileSumMd5>
+    <FileSumSha>99A078BE56246FAA72DD494C27637F812DA9DC3007BEE4839D8A90802C50857F</FileSumSha>
   </UPGRADE>
 </DocumentElement>
