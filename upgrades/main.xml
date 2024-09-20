@@ -3,49 +3,49 @@
   <UPGRADE>
     <AppName>xenix.upgrade.file.exe</AppName>
     <Version>2.0.2.1</Version>
-    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>CA3ED226658DC0EFDB96FF344D357E3D</FileSumMd5>
-    <FileSumSha>9198C8D7AB8E8A5EDBA5A7E5EEAB359BCB51169AE78F8511950AD0F8BB2865A9</FileSumSha>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>DC983C73E2D22F8A91CBFD26D6015625</FileSumMd5>
+    <FileSumSha>5D5450BD9A99D4DA76B3CF2D051960C98427C813F9426472C225298EBE8617E9</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_PetroZarBox.exe</AppName>
     <Version>1.0.8.8</Version>
-    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>CA3ED226658DC0EFDB96FF344D357E3D</FileSumMd5>
-    <FileSumSha>9198C8D7AB8E8A5EDBA5A7E5EEAB359BCB51169AE78F8511950AD0F8BB2865A9</FileSumSha>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>DC983C73E2D22F8A91CBFD26D6015625</FileSumMd5>
+    <FileSumSha>5D5450BD9A99D4DA76B3CF2D051960C98427C813F9426472C225298EBE8617E9</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xenix.log.dll</AppName>
     <Version>2.0.5.2</Version>
-    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>CA3ED226658DC0EFDB96FF344D357E3D</FileSumMd5>
-    <FileSumSha>9198C8D7AB8E8A5EDBA5A7E5EEAB359BCB51169AE78F8511950AD0F8BB2865A9</FileSumSha>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>DC983C73E2D22F8A91CBFD26D6015625</FileSumMd5>
+    <FileSumSha>5D5450BD9A99D4DA76B3CF2D051960C98427C813F9426472C225298EBE8617E9</FileSumSha>
     <Extension>.dll</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xenix.net.wget.dll</AppName>
     <Version>2.0.5.1</Version>
-    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>CA3ED226658DC0EFDB96FF344D357E3D</FileSumMd5>
-    <FileSumSha>9198C8D7AB8E8A5EDBA5A7E5EEAB359BCB51169AE78F8511950AD0F8BB2865A9</FileSumSha>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>DC983C73E2D22F8A91CBFD26D6015625</FileSumMd5>
+    <FileSumSha>5D5450BD9A99D4DA76B3CF2D051960C98427C813F9426472C225298EBE8617E9</FileSumSha>
     <Extension>.dll</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xenix.upgrade.file.exe</AppName>
     <Version>2.0.2.1</Version>
-    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>CA3ED226658DC0EFDB96FF344D357E3D</FileSumMd5>
-    <FileSumSha>9198C8D7AB8E8A5EDBA5A7E5EEAB359BCB51169AE78F8511950AD0F8BB2865A9</FileSumSha>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>DC983C73E2D22F8A91CBFD26D6015625</FileSumMd5>
+    <FileSumSha>5D5450BD9A99D4DA76B3CF2D051960C98427C813F9426472C225298EBE8617E9</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xFKpcm.exe</AppName>
-    <Version>2.7.4.5</Version>
-    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_PetroZarBox.exe</FileUrl>
-    <FileSumMd5>CA3ED226658DC0EFDB96FF344D357E3D</FileSumMd5>
-    <FileSumSha>9198C8D7AB8E8A5EDBA5A7E5EEAB359BCB51169AE78F8511950AD0F8BB2865A9</FileSumSha>
+    <Version>2.7.4.7</Version>
+    <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
+    <FileSumMd5>DC983C73E2D22F8A91CBFD26D6015625</FileSumMd5>
+    <FileSumSha>5D5450BD9A99D4DA76B3CF2D051960C98427C813F9426472C225298EBE8617E9</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
 </DocumentElement>
