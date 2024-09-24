@@ -4,48 +4,48 @@
     <AppName>xenix.upgrade.file.exe</AppName>
     <Version>2.0.2.1</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
-    <FileSumMd5>575B31BD947A759D57D85281894B1E77</FileSumMd5>
-    <FileSumSha>628C96B8BEB0CDE2F46904F11379B02493E55E4574CAE8575B4691D40CA0B98B</FileSumSha>
+    <FileSumMd5>C3DE0D387B0FC7622F668E70B8517863</FileSumMd5>
+    <FileSumSha>D859C6F30ECB663613755A8B611E26C9F5B8D4B1F7025ADF6A5A8D4DC2B36B1D</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_PetroZarBox.exe</AppName>
     <Version>1.0.8.8</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
-    <FileSumMd5>575B31BD947A759D57D85281894B1E77</FileSumMd5>
-    <FileSumSha>628C96B8BEB0CDE2F46904F11379B02493E55E4574CAE8575B4691D40CA0B98B</FileSumSha>
+    <FileSumMd5>C3DE0D387B0FC7622F668E70B8517863</FileSumMd5>
+    <FileSumSha>D859C6F30ECB663613755A8B611E26C9F5B8D4B1F7025ADF6A5A8D4DC2B36B1D</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xenix.log.dll</AppName>
     <Version>2.0.5.2</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
-    <FileSumMd5>575B31BD947A759D57D85281894B1E77</FileSumMd5>
-    <FileSumSha>628C96B8BEB0CDE2F46904F11379B02493E55E4574CAE8575B4691D40CA0B98B</FileSumSha>
+    <FileSumMd5>C3DE0D387B0FC7622F668E70B8517863</FileSumMd5>
+    <FileSumSha>D859C6F30ECB663613755A8B611E26C9F5B8D4B1F7025ADF6A5A8D4DC2B36B1D</FileSumSha>
     <Extension>.dll</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xenix.net.wget.dll</AppName>
     <Version>2.0.5.1</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
-    <FileSumMd5>575B31BD947A759D57D85281894B1E77</FileSumMd5>
-    <FileSumSha>628C96B8BEB0CDE2F46904F11379B02493E55E4574CAE8575B4691D40CA0B98B</FileSumSha>
+    <FileSumMd5>C3DE0D387B0FC7622F668E70B8517863</FileSumMd5>
+    <FileSumSha>D859C6F30ECB663613755A8B611E26C9F5B8D4B1F7025ADF6A5A8D4DC2B36B1D</FileSumSha>
     <Extension>.dll</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xenix.upgrade.file.exe</AppName>
     <Version>2.0.2.1</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
-    <FileSumMd5>575B31BD947A759D57D85281894B1E77</FileSumMd5>
-    <FileSumSha>628C96B8BEB0CDE2F46904F11379B02493E55E4574CAE8575B4691D40CA0B98B</FileSumSha>
+    <FileSumMd5>C3DE0D387B0FC7622F668E70B8517863</FileSumMd5>
+    <FileSumSha>D859C6F30ECB663613755A8B611E26C9F5B8D4B1F7025ADF6A5A8D4DC2B36B1D</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
   <UPGRADE>
     <AppName>_xFKpcm.exe</AppName>
-    <Version>2.7.4.9</Version>
+    <Version>2.7.5.2</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
-    <FileSumMd5>575B31BD947A759D57D85281894B1E77</FileSumMd5>
-    <FileSumSha>628C96B8BEB0CDE2F46904F11379B02493E55E4574CAE8575B4691D40CA0B98B</FileSumSha>
+    <FileSumMd5>C3DE0D387B0FC7622F668E70B8517863</FileSumMd5>
+    <FileSumSha>D859C6F30ECB663613755A8B611E26C9F5B8D4B1F7025ADF6A5A8D4DC2B36B1D</FileSumSha>
     <Extension>.exe</Extension>
   </UPGRADE>
 </DocumentElement>
