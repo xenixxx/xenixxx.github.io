@@ -2,9 +2,9 @@
 <DocumentElement>
   <UPGRADE>
     <AppName>xFKpcm.exe</AppName>
-    <Version>2.7.5.3</Version>
+    <Version>2.7.5.4</Version>
     <FileUrl>https://raw.githubusercontent.com/xenixxx/xenixxx.github.io/main/upgrades//_xFKpcm.exe</FileUrl>
-    <FileSumMd5>9A7059010195144C777EC6E81D522A3C</FileSumMd5>
-    <FileSumSha>C3A2C25E3CBE682F5AA1B2D771405C72ADBEF9594E4D213806249A72CDD28E85</FileSumSha>
+    <FileSumMd5>91C0DE1B1AA593FBCD0C7B01F1BCCF9E</FileSumMd5>
+    <FileSumSha>8C1B92253BDFA2A40FF6810F2BB7C1F38038CA05F864B08A3D99E563F198DB9F</FileSumSha>
   </UPGRADE>
 </DocumentElement>
